@@ -1,0 +1,6 @@
+# Don't track content of these directories:
+.vscode/
+venv/
+
+# Don't track content of these files:
+get-pip.py
