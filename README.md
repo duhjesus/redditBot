@@ -1,4 +1,4 @@
-(Note: one last vulnerability of python dependency left. no remedy yet, will look into it.)
+(Note: one last vulnerability of python dependency, *pycrypto*, left. no remedy yet, will look into it. Don't believe to be using it.)
 ## purpose: 
          * Make a reddit bot in python that responds to a user's call w/ a simple message
          * interact with reddit api, pandas/numpy data library refresher
