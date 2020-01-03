@@ -1,5 +1,6 @@
 ###### Note: 
-        1. one last vulnerability of python dependency, *pycrypto*, left. no remedy yet, will look into it. Don't believe to be using it.
+        1. one last vulnerability of python dependency, *pycrypto*, left. no remedy yet, will look into it. 
+           don't believe to be using it.
         2. all accounts have been deleted and passwords are throwaways.
         
 ## purpose: 
