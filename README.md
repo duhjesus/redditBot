@@ -10,7 +10,7 @@
 used as a starting point to learn more about reddit.
 2. [my sql research](https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas/)
 used to learn to interact w/ sql server and store large amounts of data(overkill, but interesting)
-3. my [sql server](remotemysql.com) host used to host a sql server and interact w/ it via python
+3. my [sql server](https://remotemysql.com/) host used to host a sql server and interact w/ it via python
 4. [server](https://www.pythonanywhere.com) not used, restrictions on outgoing calls
 
 future project: take what I learn and make a serverless nodejs reddit bot
