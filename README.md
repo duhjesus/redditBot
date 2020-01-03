@@ -7,7 +7,7 @@
 
 ###### basics learned from:
 1. John G Fisher's youtube video: /u/jfishersolutions | "how to create a reddit bot with python"
-used as an example of interacting with reddit api "praw"
+used as a starting point to learn more about reddit.
 2. [my sql research](https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas/)
 used to learn to interact w/ sql server and store large amounts of data(overkill, but interesting)
 3. my [sql server](remotemysql.com) host used to host a sql server and interact w/ it via python
